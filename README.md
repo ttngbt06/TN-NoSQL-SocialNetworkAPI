@@ -11,7 +11,7 @@ This is an API for a social networking site using a NoSQL database which can han
 Clone this respository. Then install **[MongoDB](https://www.mongodb.com/)** to store data and **[Insomnia](https://insomnia.rest/)** to test the routes.
 
 ## Usage
-Watch and follow this **[Video]()** for usage instruction.
+Watch and follow this **[Video](https://app.screencastify.com/v3/watch/ktkAlUA1JPMuErsyncXF)** for usage instruction.
 
 
 ![screenshot](Screenshot.gif)
