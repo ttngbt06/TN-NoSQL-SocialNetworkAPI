@@ -8,5 +8,10 @@ This is an API for a social networking site using a NoSQL database which can han
 * Add reactions associated to the thoughts and a user or delete the reactions.
 
 ## Installation
+Clone this respository. Then install **[MongoDB](https://www.mongodb.com/)** to store data and **[Insomnia](https://insomnia.rest/)** to test the routes.
 
 ## Usage
+Watch and follow this **[Video]()** for usage instruction.
+
+
+![screenshot](Screenshot.gif)
